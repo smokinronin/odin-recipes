@@ -1,1 +1,2 @@
 # odin-recipes
+This will be basic recipe website. It will allow me to use lists, headers, and font tags. Formatting for photos needs work still as the image is distorted in current form for "Goulash.jpg". 
